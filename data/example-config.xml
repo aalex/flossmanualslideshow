@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+  <size width="400" height="300" />
+  <images>
+    <image duration="2.0">clock.png</image>
+    <image duration="2.0">colorier_les_pixels.png</image>
+    <image duration="2.0">ligne_qui_tourne.png</image>
+    <image duration="2.0">moving_square.png</image>
+    <image duration="2.0">Screenshot.png</image>
+  </images>
+</config>
