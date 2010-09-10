@@ -1,11 +1,11 @@
 Slide show Software for the FLOSS Manuals
 
 Looks in the data directory of its project directory. 
-Finds the .png and .jpg files.
+Finds the config.xml file, which specifies the images name and duration.
 Displays them in a loop on a black background.
 
 You should create a data directory at the same level as the .pde file.
-Put your images there.
+Put your images in the data directory and edit the config.xml file.
 
 author: Alexandre Quessy <alexandre@quessy.net>
 date: 2010-09-08
